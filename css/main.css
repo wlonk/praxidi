@@ -31,6 +31,11 @@ p, li {
 			text-shadow: none;
 			font-size: 22px;
 			}
+      
+.navbar-inverse .navbar-nav>li>a:hover,
+.navbar-inverse .navbar-nav>li>a:focus {
+  color: #e6e6e6;
+}
 			
 .jumbotron {
 	margin-bottom: 210px;
