@@ -185,9 +185,9 @@ p, li {
 		top: -70px;
 		}
 	#bio-1 h3 {background-color: #edbf86;}
-	#bio-1 p {background-color: #30324a;}
+	#bio-1 .p-wrapper {background-color: #30324a;}
 	#bio-2 h3 {background-color: #ce6f2f;}
-	#bio-2 p {background-color: #536991;}
+	#bio-2 .p-wrapper {background-color: #536991;}
 	
 div#contact {
 	background-image: url("../img/counters.jpg");
@@ -247,6 +247,9 @@ div#contact {
 	.navbar-header {width: 100%;}
 		.navbar-brand>img {width: 100%;}
 	.container>.navbar-header {margin-left: 0;}
+  .jumbotron .container {height: 700px;}
+  #games-workshops {width: 100%; margin: 10px auto;}
+  #team img {float: none; margin: 5px auto; position: static; display: block;}
 	div#navbar {
 		background: gray;
 		position: relative;
