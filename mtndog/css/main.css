@@ -1,22 +1,111 @@
-
-
 /* ==========================================================================
    Author's custom styles
    ========================================================================== */
 
+h1, h2, h3, h4, h5 {
+	font-family: Ubuntu, Arial, sans-serif;
+	font-weight: }
+	
+p, li {
+	font-family: 'Roboto Slab', Arial, sans-serif;
+	font-weight: 400;}
 
+.navbar {
+	background: #ffffff;
+	height: 66px;
+	border: 0;
+	}
+	.navbar-brand {
+		padding: 0;
+		}
+	.navbar-right {
+		margin-top: 15px;
+		}
+		.navbar-inverse .navbar-nav>li>a {
+			color: #30324a;
+			font-family: 'Roboto Slab', Arial, sans-serif;
+			font-weight: bold;
+			text-shadow: none;
+			font-size: 22px;
+			}
+			
+.jumbotron {
+	margin-bottom: 150px;
+	padding: 200px 0 48px;
+	}	
 
+.jumbotron .container {
+	height: 480px;
+	}
+			
+.front-CTA {
+	width: 750px;
+	margin: auto;
+	}
+	.front-CTA h1 {
+		font-size: 63px;
+		text-align: center;
+		color: #30324a;
+		font-weight: 600;
+	}
 
+	.front-CTA p {
+		margin-bottom: 15px;
+		font-size: 21px;
+		font-weight: normal;
+		text-align: center;
+		margin: auto;
+	}
 
+	.front-CTA a.btn.btn-primary {
+		background-image: none;
+		border: none;
+		background-color: #30324a;
+		border-radius: 0;
+		padding: 1em 7em;
+		margin-top: 1em;
+		font-family: Ubuntu, Arial, Sans-serif;
+		text-transform: UPPERCASE;
+	}
+	
+.feature-box {
+	padding: 2em 2em;
+	color: #ffffff;
+	background-color: #edbf86;
+	}
+	.feature-box p {
+		font-size: 18px;
+		font-weight: 200;
+		}
+	.feature-box h2 {
+		margin: 10px 0 50px 100px;}
+		
+#games-workshops {
+	width: 700px;
+	margin: 100px auto;
+	}
+	#games-workshops h2 {
+		margin: 20px 0 10px;}
 
+.feature-icon {
+	height: 100px;
+    width: 100px;
+    margin: -28px -28px;
+    float: left;
+    background-size: contain;
+    }
+		
+#leadership {
+	background-color: #30324a;
+	min-height: 493px;
+	}
+	#leadership-icon {background-image: url("../img/leadership-icon.png");}
 
-
-
-
-
-
-
-
-
-
-
+#communication {
+	background-color: #536991;
+	margin-bottom: 15px;
+	}
+	#communication-icon {background-image: url("../img/communication-icon.png");}
+	
+#teamwork {background-color: #ce6f2f;}
+		#teamwork-icon {background-image: url("../img/teamwork-icon.png");}
