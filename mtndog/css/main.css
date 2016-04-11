@@ -4,11 +4,14 @@
 
 h1, h2, h3, h4, h5 {
 	font-family: Ubuntu, Arial, sans-serif;
-	font-weight: }
+	font-weight: 600;
+	}
+	h2 {text-align: center;}
 	
 p, li {
 	font-family: 'Roboto Slab', Arial, sans-serif;
-	font-weight: 400;}
+	font-weight: 200;
+	font-size: 18px;}
 
 .navbar {
 	background: #ffffff;
@@ -30,9 +33,12 @@ p, li {
 			}
 			
 .jumbotron {
-	margin-bottom: 150px;
+	margin-bottom: 210px;
 	padding: 200px 0 48px;
-	}	
+	background-image: url("../img/header.jpg");
+	background-size: cover;
+    background-position: bottom;
+	}
 
 .jumbotron .container {
 	height: 480px;
@@ -66,19 +72,26 @@ p, li {
 		margin-top: 1em;
 		font-family: Ubuntu, Arial, Sans-serif;
 		text-transform: UPPERCASE;
+		text-shadow: none;
+	}
+
+#features {
+	padding: 0 50px;
+	margin-bottom: 60px;
 	}
 	
+.col-md-6 {
+    padding: 0 0 0 20px;
+}
+
 .feature-box {
 	padding: 2em 2em;
 	color: #ffffff;
 	background-color: #edbf86;
 	}
-	.feature-box p {
-		font-size: 18px;
-		font-weight: 200;
-		}
 	.feature-box h2 {
-		margin: 10px 0 50px 100px;}
+		margin: 10px 0 50px 100px;
+		text-align: left;}
 		
 #games-workshops {
 	width: 700px;
@@ -97,7 +110,8 @@ p, li {
 		
 #leadership {
 	background-color: #30324a;
-	min-height: 493px;
+	min-height: 583px;
+	margin-bottom: 15px;
 	}
 	#leadership-icon {background-image: url("../img/leadership-icon.png");}
 
@@ -109,3 +123,136 @@ p, li {
 	
 #teamwork {background-color: #ce6f2f;}
 		#teamwork-icon {background-image: url("../img/teamwork-icon.png");}
+		
+#video>div {
+	position: relative;
+	padding-bottom: 56.25%; /* 16:9 */
+	padding-top: 25px;
+	height: 0;
+	}
+	#video iframe {
+		position: absolute;
+		top: 0;
+		left: 0;
+		width: 100%;
+		height: 100%;
+		}
+
+#testimonials {
+	background-color: #e6e6e6;
+	padding: 4em;}
+	#testimonials h2 {
+		margin-bottom: 2em;
+		}
+	#testimonials p {color: #30324a;}
+	#testimonials small {
+		font-family: 'Roboto Slab', Arial, Sans-serif;
+		font-size: 22px;
+		color: #30324a;
+		}
+	.client-icon {
+		height: 20px;
+		width: 20px;
+		}
+			#client-1 div.client-icon {background-color: #ce6f2f;}
+			#client-2 div.client-icon {background-color: #30324a;}
+			#client-3 div.client-icon {background-color: #536991;}
+	#testimonials h3 {
+		font-family: Ubuntu, Arial, Sans-serif;
+		font-size: 20px;
+		font-weight: 400;
+		}
+		#client-1 h3 {color: #ce6f2f;}
+		#client-2 h3 {color: #30324a;}
+		#client-3 h3 {color: #536991;}
+#team {
+	padding: 0 50px;
+	}
+	#team h3 {
+		padding: 20px;
+		text-align: right;
+    	color: #ffffff;
+		}
+	#team p {
+		color: #ffffff;
+		padding: 20px;
+		}
+	#team img {
+		width: 230px;
+		position: relative;
+		float: left;
+		margin: 10px 20px -70px 10px;
+		top: -70px;
+		}
+	#bio-1 h3 {background-color: #edbf86;}
+	#bio-1 p {background-color: #30324a;}
+	#bio-2 h3 {background-color: #ce6f2f;}
+	#bio-2 p {background-color: #536991;}
+	
+div#contact {
+	background-image: url("../img/counters.jpg");
+    padding: 10px 50px 35px;
+    background-size: cover;
+    background-position: left;
+}
+
+#contact-form {
+    background-color: #30324a;
+    padding: 30px;
+    margin-top: 2em;
+	}
+	#contact-form p, #contact-form h2 {
+		color: #ffffff;
+		text-align: left;
+		margin-top: 0;}
+	#contact-form textarea, #contact-form input {
+		font-size: 18px;
+		font-family: 'Roboto Slab', Arial, Sans-serif;
+		padding: 15px 10px;
+		border-radius: 0;
+	}
+
+	input.btn.btn-default {
+		background-image: none;
+		border: none;
+		background-color: #ce6f2f;
+		border-radius: 0;
+		font-family: Ubuntu, Arial, Sans-serif;
+		text-shadow: none;
+		color: #ffffff;
+		float: right;
+		width: 50%;
+		margin-top: 10px;
+		}
+		
+#footer {
+	margin-top: 30px;
+	background-color: #30324a;
+	color: #b7b1af;
+    text-align: center;
+    padding: 30px;
+}
+	#footer p {
+		font-size: 14px;}
+		
+@media screen and (max-width: 1199px) {#leadership {min-height: 608px;}}
+@media screen and (max-width: 991px) {
+	#leadership {min-height: auto;}
+	.right-col-small-box {padding: 0;}
+	.navbar-header {width: 270px;}
+		.navbar-brand>img {width: 100%;}
+	}
+@media screen and (max-width: 767px) {
+	.front-CTA {width: 100%;}
+	.navbar-header {width: 100%;}
+		.navbar-brand>img {width: 100%;}
+	.container>.navbar-header {margin-left: 0;}
+	div#navbar {
+		background: gray;
+		position: relative;
+    	top: -2px;
+		}
+	button.navbar-toggle.collapsed {
+		background-color: #30324a;
+		}
+}
