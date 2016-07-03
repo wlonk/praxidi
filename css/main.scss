@@ -1,3 +1,5 @@
+---
+---
 /* ==========================================================================
 Author's custom styles
 ========================================================================== */
@@ -9,6 +11,7 @@ h4,
 h5 {
   font-family: Ubuntu, Arial, sans-serif;
   font-weight: 600;
+  line-height: 1.5;
 }
 
 h2 {
@@ -20,6 +23,7 @@ li {
   font-family: 'Roboto Slab', Arial, sans-serif;
   font-weight: 200;
   font-size: 18px;
+  line-height: 1.5;
 }
 
 .navbar {
@@ -406,4 +410,28 @@ input.btn.btn-default {
 .content {
   background-color: #e6e6e6;
   padding-top: 50px;
+}
+
+.entry {
+  margin: 0 auto;
+  text-align: justify;
+  width: 50em;
+
+  hr {
+    border: 0;
+    border-top: 1px solid #333;
+    display: block;
+    height: 1px;
+    text-align: center;
+    width: 75%;
+  }
+
+  h1,
+  h2,
+  h3,
+  h4,
+  h5 {
+    text-align: left;
+    margin-left: -1.5em;
+  }
 }
