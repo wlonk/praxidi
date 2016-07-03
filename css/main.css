@@ -402,3 +402,8 @@ input.btn.btn-default {
   position: fixed;
   width: 75%;
 }
+
+.content {
+  background-color: #e6e6e6;
+  padding-top: 50px;
+}

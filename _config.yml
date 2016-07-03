@@ -17,5 +17,8 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.praxidi.com"
 enforce_ssl: "www.praxidi.com"
 
+# Blog settings
+permalink: "/blog/:year/:month/:day/:title/"
+
 # Build settings
 markdown: kramdown

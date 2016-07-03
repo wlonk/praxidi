@@ -1,0 +1,23 @@
+---
+layout: default
+title: Blog
+permalink: /blog/
+---
+
+<div class="content">
+  <div class="container">
+    <div class="row">
+      <section>
+        <table>
+          {% for post in site.posts %}
+          <tr>
+            <td><i class="icon-clock"></i> <time datetime="{{post.date|date:"%F"}}">{{post.date|date:"%b %d, %Y"}}</time></td>
+            <td><a href="{{site.baseurl}}{{ post.url }}">{{ post.title }}</a></td>
+            <td><span class="category"><i class="icon-tag"></i> {{post.categories | category_links}}</span></td>
+          </tr>
+          {% endfor %}
+        </table>
+      </section>
+    </div>
+  </div>
+</div>
