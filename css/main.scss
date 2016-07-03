@@ -412,10 +412,19 @@ input.btn.btn-default {
   padding-top: 50px;
 }
 
+article header {
+  margin: 0 auto;
+  width: 650px;
+  
+  h2 {
+    text-align: left;
+  }
+}
+
 .entry {
   margin: 0 auto;
-  text-align: justify;
-  width: 50em;
+  text-align: left;
+  width: 650px;
 
   hr {
     border: 0;
@@ -432,6 +441,5 @@ input.btn.btn-default {
   h4,
   h5 {
     text-align: left;
-    margin-left: -1.5em;
   }
 }
