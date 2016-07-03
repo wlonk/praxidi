@@ -1,3 +1,7 @@
+---
+layout: post
+title: Why People Fight Over Games
+---
 # It’s Just a Game, or You Didn’t Play Fair
 It was a dark and stormy night. We were playing Monopoly. This was my first time with the group, which had a house rule that you could buy rent immunity. Basically, in exchange for a property, the buyer would not charge you rent on that or some other properties of theirs you landed on.
 
