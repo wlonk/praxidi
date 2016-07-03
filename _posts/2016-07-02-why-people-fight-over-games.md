@@ -2,7 +2,6 @@
 layout: post
 title: Why People Fight Over Games
 ---
-# It’s Just a Game, or You Didn’t Play Fair
 It was a dark and stormy night. We were playing Monopoly. This was my first time with the group, which had a house rule that you could buy rent immunity. Basically, in exchange for a property, the buyer would not charge you rent on that or some other properties of theirs you landed on.
 
 To me, this was stupid. It broke a core rule of the game (if you land on a property you do not own, you must pay the rent to the owner), and it defeated what I saw as the purpose of the game: to win at everyone else’s expense.
@@ -25,7 +24,7 @@ The last time I played Monopoly with my fiancé, we had a fight that hasn’t be
  
 Why do people take games so personally?
 
-## Not all games are Games
+### Not all games are Games
 There is a lot of argument about the definition of a game. I’m not going to argue with common usage; I’ll admit that *Candy Crush* is as much a “game” as *Settlers of Catan*, but I do want to make some distinctions that are important in understanding why people get into fights over games.
 
 Games that do little more than distract, fill time, or provide a pretext for people at a party to interact in some way are often better described as diversions. Many addictive smartphone games fall into this category and most party games are actually just forms of diversion. There are goals and rules and obstructions to the goal, but no real strategy or skill needed.
@@ -36,7 +35,7 @@ On the other side of the spectrum you have war games and simulations, which can 
 
 In general, even hard games that are well-designed are fun. Humans usually respond to well-structured incentive systems with clearly defined goals, rules, and challenges that are just hard enough, and we all have our line for [where hard bleeds into hellish](http://www.denofgeek.com/us/games/video-games/249481/top-25-brutally-difficult-video-games).
 
-## Not Everyone Sees Games the Same Way
+### Not Everyone Sees Games the Same Way
 Just as games have different intentions, people approach them with different goals. That’s not surprising. But if you’re playing Monopoly to pass a rainy day with your partner and they are playing to win at all costs (within the rules of the game)...there will be problems
 
 And the worst part is everyone seems to assume a)everyone plays games for the same reason they do, or b) others are sleazy and shallow (if they play to win) or spoilsports (if they play for fun and get upset).
@@ -45,7 +44,7 @@ I don’t think there’s anything wrong with trying to win as long as mutually 
 
 The tension arises when those expectations mix in the same game and the players are not aware of it.
 
-## Mean games make mean people
+### Mean games make mean people
 If your priority is to win the game, that can lead you to start acting in ways that can be disturbing to other players, especially those who don’t share your goals.
 
 Depending on how much you allow a game’s incentives to influence your own value system, you may be more willing to play hard. For example, you might lie and backstab allies in Risk, at the expense of your relationships outside the game.
@@ -54,7 +53,7 @@ If you get too caught up in a game, it can change what you consider decent behav
 
 Games create incentives for certain actions, and our desire to win makes us more willing to engage in those actions, even if they are out of the realm of socially acceptable.
 
-## Smart players maintain their perspective
+### Smart players maintain their perspective
 That said, ultimately, we should always keep in mind WHY we are playing a game. If it is to have fun, that should be the priority. Don’t cheat.
 
 If it is to learn something, then do what you must. In a war game, the point is not to have fun. It is to try to win while following the rules, even to the point of tricking and taking advantage of your opponent.
@@ -65,7 +64,7 @@ For athletes with more perspective, sportsmanship is crucial, partly because the
 
 In Jane Austen’s novels, characters who are meant to be strategically mature don’t let winning games get in the way of winning their larger goals. Eliza and Darcy, for example, are not good or very engaged in the card games their fellow partygoers play, while more clueless characters often brag about their skill at cards.
 
-## How to Cause a Break-up
+### How to Cause a Break-up
 Of course, games, and gamers, can fall somewhere in the middle: fun games that *also* give people the chance to try on new ideas and actions.
 
 The problems arise when you have two people with different expectations about what a game is, playing a game that is ambiguous.
