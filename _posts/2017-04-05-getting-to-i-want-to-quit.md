@@ -1,4 +1,7 @@
-# Getting to "I Want to Quit"
+---
+layout: post
+title: Getting to "I Want to Quit"
+---
 If you want to be successful at something, get to the point of wanting to quit as fast as you can. That's the best way to find out what your dream will really take and if you are willing to push through the worst. It is also the point where you learn your limits and what you need learn in order to succeed.
 
 You will also discover what you will need to put up with in whatever you're trying to do. As my wife reminded me when I was banging my head on the table attempting to finish my math assignments, “If you want to be a mathematician, this is what your day-to-day will be like.”
