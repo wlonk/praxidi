@@ -40,7 +40,9 @@ By being willing to lose all that money, would-be angels also allow themselves t
 
 Investing is an area where reading the situation is basically the entire job. While this is an extreme case, experience always has costs. Time, energy, money, reputation, ego, whatever. It is always easier and safer to study, but you forgo the skill of knowing when to apply which principles.
 
-We like games because they condense learning in very rapid iterations: you can face dozens of situations in a game session and thus experiment with dozens of ways to apply the principles you’ve acquired through experience or study. 
+We like games because they condense learning into very rapid iterations: you can face dozens of situations in a game session and thus experiment with dozens of ways to apply the principles you’ve acquired through experience or study.
+
+//TODO: Link to piece on iteration in games.
 
 ### Order Matters
 Newcomers to competitive games often get caught up in trying to learn established principles without really understanding the game or how they play. They try to fast forward.
