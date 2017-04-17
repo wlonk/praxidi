@@ -26,6 +26,14 @@ li {
   line-height: 1.5;
 }
 
+input#mc-embedded-subscribe {
+    background-color: #ce6f2f !important;
+}
+
+div#mc_embed_signup {
+    background: #e6e6e6 !important;
+}
+
 .navbar {
   background: #ffffff;
   height: 66px;
@@ -415,7 +423,7 @@ input.btn.btn-default {
 article header {
   margin: 0 auto;
   width: 650px;
-  
+
   h1,
   h2,
   h3 {
