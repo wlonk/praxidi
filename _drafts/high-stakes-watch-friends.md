@@ -49,3 +49,4 @@ All because there weren’t expectations set about email norms.
 
 Topic 3: Stress Responses
 
+https://www-ee.stanford.edu/~hellman/Breakthrough/book/chapters/kringlen.html
