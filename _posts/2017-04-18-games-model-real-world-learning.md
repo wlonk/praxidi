@@ -2,7 +2,8 @@
 layout: post
 title: Two Ways Games Model Real-World Learning
 ---
-> This is real math, not contrived textbook problems. You’re not in the kiddie pool anymore. You’re in the tiger pit wrestling with real tigers.
+> *This is real math, not contrived textbook problems. You’re not in the kiddie pool anymore. You’re in the tiger pit wrestling with real tigers.*
+
 > -- My Calc III professor, to a room of community college students, on an assignment to derive the modern equation for curvature from work done by 17th century mathematician Christiaan Huygens on pendulums.
 > (he didn’t actually expect anyone to finish)
 
