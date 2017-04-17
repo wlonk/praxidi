@@ -94,6 +94,6 @@ We like games because they condense learning into very rapid iterations: you can
 
 Thus, games model real-world learning because they reward extensive and creative experimentation and teach you how to read  and adapt to a variety of situations.
 
-***Think games could change the world? Or just like to learn about learning? Sign up for our newsletter!***
+***Think games could change the world? Or just like to learn about learning? [Sign up for our newsletter!](http://eepurl.com/cLuf4n)***
 
 *If you liked this article, please don’t keep it to yourself. Share with your friends.*
